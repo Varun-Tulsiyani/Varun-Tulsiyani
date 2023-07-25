@@ -4,14 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Dubai, United Arab Emirates
 * ✉️  You can contact me at [varuntulsiyani@yahoo.com](mailto:varuntulsiyani@yahoo.com)
 
-<a href="https://www.github.com/Varun-Tulsiyani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Varun-Tulsiyani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/VarunTulsiani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/varuntulsiyani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-![](https://komarev.com/ghpvc/?username=Varun-Tulsiyani&color=grey&style=for-the-badge)
-
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -25,13 +18,10 @@ src="https://img.shields.io/twitter/follow/varuntulsiyani?logo=twitter&style=for
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left">
-<!-- <a href="https://www.facebook.com/varuntulsiyani" target="_blank" rel="noreferrer"> -->
-<!--     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> -->
-<!-- </a> -->
+<!-- <a href="https://www.facebook.com/varuntulsiyani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> -->
 <a href="https://www.github.com/Varun-Tulsiyani" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
@@ -52,6 +42,6 @@ src="https://img.shields.io/twitter/follow/varuntulsiyani?logo=twitter&style=for
 
 <a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-stats.vercel.app/api?username=Varun-Tulsiyani&show_icons=true&theme=radical&count_private=true" alt="Varun-Tulsiyani's GitHub stats" /></a>
 
-<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Tulsiyani&theme=radical&hide_border=true" /></a>
+<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Tulsiyani&theme=radical" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Tulsiyani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
