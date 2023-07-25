@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [varuntulsiyani@yahoo.com](mailto:varuntulsiyani@yahoo.com)
 
 <a href="https://www.github.com/Varun-Tulsiyani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Varun-Tulsiyani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/varuntulsiyani" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Varun-Tulsiyani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/VarunTulsiani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/varuntulsiyani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ![](https://komarev.com/ghpvc/?username=Varun-Tulsiyani&color=grey&style=for-the-badge)
@@ -50,10 +50,8 @@ src="https://img.shields.io/twitter/follow/varuntulsiyani?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-stats.vercel.app/api?username=Varun-Tulsiyani&show_icons=true&theme=radical&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Varun-Tulsiyani's GitHub stats" /></a>
+<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-stats.vercel.app/api?username=Varun-Tulsiyani&show_icons=true&theme=radical&count_private=true" alt="Varun-Tulsiyani's GitHub stats" /></a>
 
-<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Tulsiyani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Varun-Tulsiyani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Tulsiyani&theme=radical&hide_border=true" /></a>
 
-<a href="https://github.com/Varun-Tulsiyani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Tulsiyani&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Tulsiyani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
