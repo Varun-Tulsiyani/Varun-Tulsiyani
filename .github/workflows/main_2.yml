@@ -1,11 +1,16 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  schedule: [{cron: "0 20 * * *"}]
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -15,7 +20,7 @@ jobs:
           base: topics, metadata
           config_timezone: Asia/Dubai
           
-          filename: github-metrics_2.svg
+          filename: metrics_2.svg
           
           plugin_languages: yes
           plugin_languages_indepth: yes
