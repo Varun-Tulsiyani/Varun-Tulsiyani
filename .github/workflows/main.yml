@@ -24,7 +24,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base, history
           plugin_lines_history_limit: 0
-          plugin_traffic: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
